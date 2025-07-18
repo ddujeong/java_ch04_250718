@@ -14,16 +14,22 @@ public class IfTest1 {
 		//0 ~ 0.999.. 라서 0.9*6 = 5.4니까 + 1 해줘야 1 ~ 6까지 값이 나옴
 		if (number == 1) {
 			System.out.println("일이 나왔습니다");
+			System.out.println("11111111");
 		} else if(number == 2) {
 			System.out.println("이가 나왔습니다");
+			System.out.println("22222222");
 		} else if(number == 3) {
 			System.out.println("삼이 나왔습니다");
+			System.out.println("33333333");
 		} else if(number == 4) {
 			System.out.println("사가 나왔습니다");
+			System.out.println("44444444");
 		} else if(number == 5) {
 			System.out.println("오가 나왔습니다");
+			System.out.println("55555555");
 		} else {
 			System.out.println("육이 나왔습니다");
+			System.out.println("66666666");
 		}
 	}
 
