@@ -32,12 +32,19 @@ public class SwitchTest {
 			System.out.println("육이 나왔습니다");
 			System.out.println("66666666");
 			break;
-			default :  // 모든 값에 해당되지 않을때 (ex else)
+			default :  // 모든 값에 해당되지 않을때 (ex : else)
 			System.out.println("육이 나왔습니다");
 			System.out.println("66666666");
 			break;
 			
 		}
+		
+//		String ch = "kor";
+//		switch (ch) {
+//		case : "ch" 
+//			
+//		}
+				
 	} 
 	
 }
